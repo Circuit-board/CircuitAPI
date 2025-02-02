@@ -1,0 +1,8 @@
+name: CircuitAPI
+version: '1.0'
+main: cool.circuit.circuitAPI.CircuitAPI
+api-version: '1.21'
+commands:
+  test:
+    usage: "/test"
+    description: "A test command"
